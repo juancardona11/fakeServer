@@ -1,12 +1,14 @@
 {
   "productos": [
     {
+      "id":1,
       "name":"juan",
        "age":25,
        "sex":"M"
     
     },
     {
+      "id":2,
       "name":"pepito",
        "age":25,
        "sex":"M"
