@@ -1,0 +1,10 @@
+{
+  "productos": [
+    {
+      "name":"juan",
+       "age":25,
+       "sex":"M"
+    
+    }
+  ]
+}
