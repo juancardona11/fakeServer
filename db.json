@@ -1,11 +1,13 @@
 {
   "productos": [
     {
+    "id":1,
     "name": "pene",
     "age": 25,
     "sex": "M"
   },
   {
+    "id":2,
     "name": "pepito",
     "age": 25,
     "sex": "M"
