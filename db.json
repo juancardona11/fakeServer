@@ -5,6 +5,13 @@
        "age":25,
        "sex":"M"
     
+    },
+    {
+      "name":"pepito",
+       "age":25,
+       "sex":"M"
+    
     }
+    
   ]
 }
