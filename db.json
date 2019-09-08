@@ -1,11 +1,15 @@
 {
-  "posts": [
+  "productos": [
     {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+    "name": "pene",
+    "age": 25,
+    "sex": "M"
+  },
+  {
+    "name": "pepito",
+    "age": 25,
+    "sex": "M"
   }
+  ]
+  
 }
