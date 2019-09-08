@@ -2,16 +2,64 @@
   "productos": [
     {
     "id":1,
-    "name": "pene",
-    "age": 25,
-    "sex": "M"
+    "name": "zapatos",
+    "price": 80000,
+    "brand": "Nike",
+    "image": "https://c.static-nike.com/a/images/t_PDP_1280_v1/f_auto/uwjw39b1xdsbtmfnxjqm/calzado-tanjun-NwTz9kxD.jpg",
+    "category":
+      {
+        "category_id":1,
+        "category_name":"deportivos"
+      },
+     "rating":3,
+     "description": "Zapatos muy cómodos perfectos para el dia a dia",
+     "sold_units": 10
+  },
+    {
+    "id":2,
+    "name": "camisa",
+    "price": 60000,
+    "brand": "Tommy",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/61FGuqttXfL._UX522_.jpg",
+    "category":
+      {
+        "category_id":2,
+        "category_name":"formal"
+      },
+     "rating":2,
+     "description": "camisa elegante para fiestas",
+     "sold_units": 15
+  },
+   {
+    "id":3,
+    "name": "portatil",
+    "price": 760000,
+    "brand": "HP",
+    "image": "https://mx-media.hptiendaenlinea.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/f/r/front_pavilion.png",
+    "category":
+      {
+        "category_id":3,
+        "category_name":"electrónica"
+      },
+     "rating":5,
+     "description": "pc perfecto para jugar tus jueguitos de mierda",
+     "sold_units": 15
   },
   {
-    "id":2,
-    "name": "pepito",
-    "age": 25,
-    "sex": "M"
-  }
+    "id":4,
+    "name": "closet",
+    "price": 260000,
+    "brand": "Home center",
+    "image": "https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3392819-750-750/7708179573402-4.jpg?v=636862951273300000",
+    "category":
+      {
+        "category_id":4,
+        "category_name":"muebles"
+      },
+     "rating":5,
+     "description": "armario perfecto para salir de el",
+     "sold_units": 34
+  },
   ]
   
 }
